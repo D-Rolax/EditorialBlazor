@@ -1,0 +1,1 @@
+Scaffold-DbContext "server=(localdb)\MSSQLLocalDB; database=DB_EDITORIAL; integrated security=true;" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models 
